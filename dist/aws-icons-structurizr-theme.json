@@ -1848,13 +1848,13 @@
     {
       "tag": "AutoScalingGroup",
       "stroke": "#ED7100",
-      "border": "dashed",
+      "border": "Dashed",
       "icon": "Groups/AutoScalingGroup.png"
     },
     {
       "tag": "AvailabilityZone",
       "stroke": "#00A4A6",
-      "border": "dashed"
+      "border": "Dashed"
     },
     {
       "tag": "CorporateDataCenter",
@@ -1874,7 +1874,7 @@
     {
       "tag": "Generic",
       "stroke": "#7D8998",
-      "border": "dashed"
+      "border": "Dashed"
     },
     {
       "tag": "GenericAlt",
@@ -1938,7 +1938,7 @@
     {
       "tag": "Region",
       "stroke": "#00A4A6",
-      "border": "dotted",
+      "border": "Dotted",
       "icon": "Groups/Region.png"
     },
     {
